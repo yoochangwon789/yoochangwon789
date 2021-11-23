@@ -1,4 +1,12 @@
 ### Hello!! I am ChangWon Yoo 👋
+📫 changwon554@gmail.com
+
+🔎 Android Kotlin
+
+🤔 프로젝트의 결과도 중요하지만
+- 무엇보다 중요한 것은 꾸준함, 부지런함, 소통
+- '과정 속에서 생기는 이슈와 문제를 끝까지 해결하려는 노력' 을 중요하게 생각합니다.
+
 ![yoochangwon789](https://github-readme-stats.vercel.app/api?username=yoochangwon789&show_icons=true&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoochangwon789&layout=compact&theme=tokyonight&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 <!--
