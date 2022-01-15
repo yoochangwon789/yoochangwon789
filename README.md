@@ -8,6 +8,7 @@
 - '과정 속에서 생기는 이슈와 문제를 끝까지 해결하려는 노력'
 - 코드 속에 사소한 부분도 이해하고 넘어가는 노력
 - 생산적인 1일 1Commit
+- 코드를 내것으로 만들자!
 - 기록의 소중함을 알자!😄
 
 ![yoochangwon789](https://github-readme-stats.vercel.app/api?username=yoochangwon789&show_icons=true&theme=material-palenight)
